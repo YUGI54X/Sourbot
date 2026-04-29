@@ -1,0 +1,1 @@
+worker: python botai.py
